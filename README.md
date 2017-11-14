@@ -8,7 +8,7 @@ hybrid and mobile web and desktop apps. We support simulators (iOS), emulators
 (Android), and real devices (iOS, Android, Windows, Mac).
 
 Want to skip straight to the action? Check out our [getting
-started](/docs/en/about-appium/getting-started.md) doc.
+started] (https://appium.readthedocs.io/en/stable/en/writing-running-appium/running-tests/)
 
 ### Supported Platforms
 
