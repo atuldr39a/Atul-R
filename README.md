@@ -54,7 +54,7 @@ Java. Appium opens up the possibility of true cross-platform native app
 automation, for mobile and beyond. Finally!
 
 If you're new to Appium, or want a fuller description of what this is all
-about, please read our http://appium.io/introduction.html
+about, please visit [Appium Introduction] (http://appium.io/introduction.html)
 
 ### Requirements
 
