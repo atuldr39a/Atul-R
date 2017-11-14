@@ -8,7 +8,7 @@ hybrid and mobile web and desktop apps. We support simulators (iOS), emulators
 (Android), and real devices (iOS, Android, Windows, Mac).
 
 Want to skip straight to the action? Check out our [getting
-started](/docs/en/about-appium/getting-started.md) doc.
+started] (https://appium.readthedocs.io/en/stable/en/writing-running-appium/running-tests/)
 ### Supported Platforms
 
 Appium supports app automation across a variety of platforms, like iOS,
@@ -54,8 +54,7 @@ Java. Appium opens up the possibility of true cross-platform native app
 automation, for mobile and beyond. Finally!
 
 If you're new to Appium, or want a fuller description of what this is all
-about, please read our [Introduction to Appium
-Concepts](/docs/en/about-appium/intro.md).
+about, please read our http://appium.io/introduction.html
 
 ### Requirements
 
