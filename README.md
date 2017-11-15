@@ -1,5 +1,9 @@
 # Atul-R
 QA Task -3 Automation Task Co-coin
+# Project Details :
+CoCoin is android application. CoCoin is an exhaustive personal finance and accounting app followed by a clean, beautiful UI. Co Coinis a money management app where you can add your expenses in a dedicated category and track your spendings. You can review your
+expenses in detailed charts.
+
 # Appium
 
 
@@ -91,6 +95,21 @@ Running the tests
 To run your tests simply you need to execute the following command from inside the project directory.
 
 mvn test
+
+### Android Configurations
+
+To execute the examples over the Android platform you'll need:
+
+### Android SDK
+### Updated Build Tools, Platform Tools and, at least, one System Image (Android Version)
+### Configure Android Path on your environment variables
+### ANDROID_HOME: root android sdk directory
+### PATH: ANDROID_HOME + the following paths = platform-tools, tools, tools/bin
+### And Android Virtual Device
+### AVD or Genymotion
+### Inspect elements on Android
+
+You can use the uiautomatorviewer to inspect elements on Android devices. or you can use Appium Desktop
 
 
 ### Running the sample tests
